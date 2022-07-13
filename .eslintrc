@@ -1,7 +1,0 @@
-{
-    "extends": ["prettier", "@salesforce/eslint-config-lwc/recommended"],
-    "plugins": ["prettier"],
-    "rules": {
-    "prettier/prettier": ["error"]
-    }
-}
