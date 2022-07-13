@@ -1,6 +1,6 @@
-# Prerequisite before visiting the website
+# Request for visiting the website
 
-Please disalbe the secure connection (the lock next to the url), because this react page contains mixed content. and gh-page with github domain only allow using https protocol. So in order to fetch the data from the movie datebase. You would need to disable the secure connection for this page.
+Please disable the secure connection (the lock next to the url), because this react page contains mixed content. and gh-page with github domain only allow using https protocol. So in order to fetch the data from the movie datebase. You would need to disable the secure connection for this page.
   
 Ref: [mix-content issue](https://developer.mozilla.org/en-US/docs/Web/Security/Mixed_content)
 
